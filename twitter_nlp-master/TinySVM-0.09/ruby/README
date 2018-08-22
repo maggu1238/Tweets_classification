@@ -1,0 +1,12 @@
+TinySVM ruby module
+
+$Id: README,v 1.4 2001/08/29 15:25:40 taku-ku Exp $;
+
+1. Install
+  % ruby extconf.rb
+  % make
+  % su
+  # make install
+  
+2. How to use?
+   see 'test.rb' as sample program.

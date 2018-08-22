@@ -1,0 +1,6 @@
+''' Divides into training & test set such that the each class samples are well represented '''
+
+
+import sys
+
+fin = open(sys.argv[1],'r')
